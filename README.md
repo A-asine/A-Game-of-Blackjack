@@ -2,7 +2,7 @@
 Usage of Socket Programming to develop the famous BlackJack Game.  [As a part of Computer Networks Project]
 #Blackjack using socket programming
 
-#How to connect?
+##How to connect?
 
 -- For running the server and the dealer process
 1. gcc dealer.c -o dealer
